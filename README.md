@@ -1,6 +1,6 @@
 # Desktop profiles
 
-Assets, stylesheets, launchers and patches that make up the **macOS / Windows / Ubuntu** desktop profiles driven by [GameBoost](https://github.com/grantdong1-maker/gameboost).
+Assets, stylesheets, launchers and patches that make up the **macOS / Windows / Ubuntu** desktop profiles driven by [GameBoost](https://github.com/Grant-1maker/gameboost).
 
 ## Contents
 
@@ -20,7 +20,7 @@ patches/
 ## Installation
 
 ```bash
-git clone https://github.com/grantdong1-maker/desktop-profiles.git
+git clone https://github.com/Grant-1maker/desktop-profiles.git
 cd desktop-profiles
 ./install.sh
 ```
