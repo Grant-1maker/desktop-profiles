@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Microsoft Store
+Comment=Browse apps (Windows mode)
+Exec=/snap/bin/snap-store
+Icon=ms-store
+Terminal=false
+NoDisplay=false
+Categories=System;

@@ -1,0 +1,41 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "logo": {
+    "type": "builtin",
+    "source": "ubuntu",
+    "color": {
+      "1": "#0A84FF",
+      "2": "#5AC8FA",
+      "3": "#76D6FF",
+      "4": "#0A84FF",
+      "5": "#5AC8FA"
+    }
+  },
+  "color": {
+    "keys": "#0A84FF",
+    "title": "#0A84FF"
+  },
+  "modules": [
+    "break",
+    "user",
+    { "type": "break" },
+    "os",
+    "host",
+    "kernel",
+    "uptime",
+    "packages",
+    "shell",
+    "resolution",
+    "de",
+    "wm",
+    "wmtheme",
+    "theme",
+    "icons",
+    "terminal",
+    "terminalfont",
+    "cpu",
+    "gpu",
+    "memory",
+    "break"
+  ]
+}

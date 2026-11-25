@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Start
+Comment=Open the app menu
+Icon=/home/grant/.local/share/icons/windows-logo.svg
+Exec=gdbus call --session --dest com.Extensions.ArcMenu --object-path /com/Extensions/ArcMenu --method com.Extensions.ArcMenu.ToggleArcMenu
+Terminal=false
+NoDisplay=false
+Categories=System;

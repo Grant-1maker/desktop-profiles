@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Search
+Comment=Search apps, files and settings
+Icon=system-search
+Exec=gdbus call --session --dest org.gnome.Shell --object-path /org/gnome/Shell --method org.gnome.Shell.FocusSearch
+Terminal=false
+NoDisplay=false
+Categories=Utility;

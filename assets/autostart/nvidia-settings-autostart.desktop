@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Disabled by GameBoost setup
+Exec=true
+Hidden=true
+X-GNOME-Autostart-enabled=false
